@@ -1,0 +1,23 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "ADCAL",
+    "ADRDY",
+    "ADSTART",
+    "AHBENR",
+    "CFGR",
+    "CHSEL",
+    "CHSELR",
+    "DMAEN",
+    "GPIOA",
+    "GPIOAEN",
+    "GPIOB",
+    "GPIOBEN",
+    "MODER"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
